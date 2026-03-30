@@ -1,0 +1,17 @@
+
+/home/runner/work/exp-greedy-coinchange-dei/exp-greedy-coinchange-dei/experiment/simulation/js/main.js
+    1:10   warning  'previousStep' is defined but never used             no-unused-vars
+   18:37   warning  Empty block statement                                no-empty
+   36:5    warning  'originalAmount' is assigned a value but never used  no-unused-vars
+  105:10   warning  'toggleExecPanel' is defined but never used          no-unused-vars
+  252:89   warning  Empty block statement                                no-empty
+  343:10   warning  'applyCurrencySystem' is defined but never used      no-unused-vars
+  496:10   warning  'startSimulation' is defined but never used          no-unused-vars
+  637:99   warning  Empty block statement                                no-empty
+  654:10   warning  'pauseSimulation' is defined but never used          no-unused-vars
+  669:10   warning  'autoRun' is defined but never used                  no-unused-vars
+  758:125  warning  Empty block statement                                no-empty
+  761:10   warning  'resetAll' is defined but never used                 no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+
